@@ -1,0 +1,27 @@
+{
+  "name": "bcrypt-test",
+  "version": "1.0.0",
+  "description": "Testing Bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Menekou B. Coulibaly",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.0",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0",
+    "sequelize": "^3.27.0",
+    "sqlite3": "^3.1.8",
+    "webpack": "^1.13.3"
+  }
+}
